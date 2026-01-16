@@ -36,5 +36,5 @@ Python • PySpark • TensorFlow • Pandas • FastAPI • Docker • Git
 ---
 
 ## 📫 Let's Connect
-LinkedIn: <your link>
+LinkedIn: https://www.linkedin.com/in/n-john-kimani-283a81274
 Email: sifekeam@gmail.com
