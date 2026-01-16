@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm John Kimani 👋
 
-<!--
-**johhnykeam/johhnykeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer & Big Data Analyst  
+BSc Applied Statistics with Computing | Hackathon Winner  
 
-Here are some ideas to get you started:
+I build data-driven systems in **fintech, health AI, and climate tech**, turning messy real-world data into reliable ML models and decision tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Featured Projects
+
+### 💳 Debt-Aware Financial Recommendation Engine
+A risk-aware recommender system inspired by Fuliza & Okoa Jahazi.
+
+- Models repayment behavior and credit exposure
+- Balances default risk, revenue, and user retention
+- Built with Python, Pandas, ML models
+
+👉 [View Project](https://github.com/johnnykeam/debt_aware_offer_engine)
+
+---
+
+### 🌳 Climate Resilience ML Models
+CNNs for tree species classification & survival prediction using climate and soil data.
+
+---
+
+### 🧠 Health AI – ThereBot (BrickLabs AI)
+Contributed to production ML pipelines for an AI health assistant.
+
+---
+
+## 🛠 Tech Stack
+Python • PySpark • TensorFlow • Pandas • FastAPI • Docker • Git
+
+---
+
+## 📫 Let's Connect
+LinkedIn: <your link>
+Email: sifekeam@gmail.com
